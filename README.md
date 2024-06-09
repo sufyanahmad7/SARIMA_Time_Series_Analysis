@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project: Time Series Analysis with SARIMA
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project: SARIMA Time Series Analysis
 
 ## Business Case
 Government agencies in UK are using more resources than necessary by deploying the incorrect number of first responders at the wrong times of the year. 
